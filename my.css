@@ -2,7 +2,7 @@
     max-height: 200px;
 }
 .img:hover{
-  max-height: 250px;
+  max-height: 240px;
   box-shadow: 20px 20px 13px rgba(6, 11, 39, 0.726);
   border-radius: 55%;
 
@@ -21,7 +21,7 @@ h1{
 }
 body {
     background-image: url("bgimg.jpg");
-    background-size: 110% 100%;
+    background-size: 200% 100%;
     background-repeat: no-repeat;
     color:lightblue;
     font-family: 'Yatra One';font-size: 20px;
